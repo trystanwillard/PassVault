@@ -1,6 +1,6 @@
 # PassVault
 
-<img src="PassVault/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="120" alt="PassVault app icon">
+<img src="Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png" width="120" alt="PassVault app icon">
 
 An iOS password manager built with SwiftUI, using Face ID/Touch ID authentication
 and Keychain-backed secure storage.
